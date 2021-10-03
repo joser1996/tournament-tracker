@@ -1,0 +1,15 @@
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\bin\Debug\netcoreapp3.1\TournamentUI.exe
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\bin\Debug\netcoreapp3.1\TournamentUI.deps.json
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\bin\Debug\netcoreapp3.1\TournamentUI.runtimeconfig.json
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\bin\Debug\netcoreapp3.1\TournamentUI.runtimeconfig.dev.json
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\bin\Debug\netcoreapp3.1\TournamentUI.dll
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\bin\Debug\netcoreapp3.1\TournamentUI.pdb
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.csprojAssemblyReference.cache
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.TournamentViewerForm.resources
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.csproj.GenerateResource.cache
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.csproj.CoreCompileInputs.cache
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.AssemblyInfoInputs.cache
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.AssemblyInfo.cs
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.dll
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.pdb
+C:\Users\Baby Cakes.000\source\repos\TournamentUI\obj\Debug\netcoreapp3.1\TournamentUI.genruntimeconfig.cache
