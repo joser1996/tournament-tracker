@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.tournamentDashboardLabel = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
+            this.loadExistingLabel = new System.Windows.Forms.Label();
             this.loadExistingTournamentDropbox = new System.Windows.Forms.ComboBox();
             this.createTournamentButton = new System.Windows.Forms.Button();
             this.loadTournamentButton = new System.Windows.Forms.Button();
@@ -46,16 +46,16 @@
             this.tournamentDashboardLabel.TabIndex = 0;
             this.tournamentDashboardLabel.Text = "Tournament Dashboard";
             // 
-            // label1
+            // loadExistingLabel
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
-            this.label1.Location = new System.Drawing.Point(98, 113);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(322, 37);
-            this.label1.TabIndex = 1;
-            this.label1.Text = "Load Existing Tournament";
+            this.loadExistingLabel.AutoSize = true;
+            this.loadExistingLabel.Font = new System.Drawing.Font("Segoe UI", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            this.loadExistingLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(153)))), ((int)(((byte)(255)))));
+            this.loadExistingLabel.Location = new System.Drawing.Point(98, 113);
+            this.loadExistingLabel.Name = "loadExistingLabel";
+            this.loadExistingLabel.Size = new System.Drawing.Size(322, 37);
+            this.loadExistingLabel.TabIndex = 1;
+            this.loadExistingLabel.Text = "Load Existing Tournament";
             // 
             // loadExistingTournamentDropbox
             // 
@@ -104,7 +104,7 @@
             this.Controls.Add(this.loadTournamentButton);
             this.Controls.Add(this.createTournamentButton);
             this.Controls.Add(this.loadExistingTournamentDropbox);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.loadExistingLabel);
             this.Controls.Add(this.tournamentDashboardLabel);
             this.Name = "TournamentDashboardForm";
             this.Text = "TournamentDashboardForm";
@@ -116,7 +116,7 @@
         #endregion
 
         private System.Windows.Forms.Label tournamentDashboardLabel;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label loadExistingLabel;
         private System.Windows.Forms.ComboBox loadExistingTournamentDropbox;
         private System.Windows.Forms.Button createTournamentButton;
         private System.Windows.Forms.Button loadTournamentButton;
