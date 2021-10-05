@@ -6,6 +6,8 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 using TrackerLibrary;
+using TrackerLibrary.Models;
+using TrackerLibrary.Interface;
 
 namespace TournamentUI
 {
